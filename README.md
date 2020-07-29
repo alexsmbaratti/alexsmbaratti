@@ -9,10 +9,10 @@ I am a student studying Software Engineering with over a decade of programming e
 - Python
 - C/C++
 
-## Favorite Platforms
+## Favorite Platforms to Program For
 - Discord
-- Android
 - Docker
+- Android
 
 <!--
 **alexsmbaratti/alexsmbaratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
