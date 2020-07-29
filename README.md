@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Alex! 👋
+I am a student studying Software Engineering with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
+
+🌱 I’m currently learning Swift and ARKit
+
+## Favorite Programming Languages
+- Java
+- Javascript (specifically Node.js)
+- Python
+- C/C++
 
 <!--
 **alexsmbaratti/alexsmbaratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
