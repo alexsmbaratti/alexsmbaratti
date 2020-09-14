@@ -1,7 +1,7 @@
 ### Hi, I'm Alex! 👋
 I am a student studying Software Engineering with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
 
-🌱 I’m currently learning Swift and ARKit
+🌱 I’m currently studying how to run Node.js at scale
 
 ## Favorite Programming Languages
 - Java
