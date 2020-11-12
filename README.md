@@ -14,6 +14,8 @@ I am a student studying Software Engineering with over a decade of programming e
 - Docker
 - Android
 
+![Stats](https://github-readme-stats.vercel.app/api?username=alexsmbaratti&show_icons=true&theme=dark)
+
 <!--
 **alexsmbaratti/alexsmbaratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
