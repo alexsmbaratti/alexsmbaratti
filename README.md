@@ -1,7 +1,7 @@
 ### Hi, I'm Alex! 👋
 I am a student studying Software Engineering with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
 
-🌱 I’m currently studying how to run Node.js at scale
+🌱 I’m currently studying web development and how to create Node.js modules
 
 ## Favorite Programming Languages
 - Java
@@ -10,6 +10,7 @@ I am a student studying Software Engineering with over a decade of programming e
 - C/C++
 
 ## Favorite Platforms to Program For
+- Web
 - Discord
 - Docker
 - Android
