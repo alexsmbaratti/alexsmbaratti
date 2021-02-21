@@ -5,7 +5,7 @@ I am a student studying Software Engineering with over a decade of programming e
 
 ## Favorite Programming Languages
 - Java
-- Javascript (specifically Node.js)
+- Javascript
 - Python
 - C/C++
 
