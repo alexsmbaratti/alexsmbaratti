@@ -1,7 +1,7 @@
 ### Hi, I'm Alex! 👋
 I am a student studying Software Engineering with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
 
-🌱 I’m currently studying backend web development
+🌱 I’m currently studying iOS/macOS app development
 
 ## Favorite Programming Languages
 - Java
