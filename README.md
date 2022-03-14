@@ -1,33 +1,15 @@
 ### Hi, I'm Alex! 👋
 I am a student studying Software Engineering with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
 
-🌱 I’m currently studying iOS/macOS app development
-
-## Favorite Programming Languages
-- Java
-- Javascript
-- Python
-- C/C++
+- 🎓 I'm currently pursuing a Master of Science in Software Engineering
+- 🌱 I’m currently studying iOS/macOS app development in my free time
+- 📋 I'm currently practicing my test driven development skills
 
 ## Favorite Platforms to Program For
+- macOS/iOS
 - Web
 - Discord
 - Docker
 - Android
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alexsmbaratti&show_icons=true&theme=dark)
-
-<!--
-**alexsmbaratti/alexsmbaratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check out some of my programming projects here on GitHub, or [visit my website](https://alexsmbaratti.com) to learn more about me and what I do.
