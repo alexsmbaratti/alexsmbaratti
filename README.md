@@ -1,7 +1,7 @@
 ### Hi, I'm Alex! 👋
 I am a student studying Software Engineering with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
 
-- 🎓 I'm currently pursuing a Master of Science in Software Engineering
+- 🎓 I've graduated with a Master of Science in Software Engineering
 - 🌱 I’m currently studying iOS/macOS app development in my free time
 - 📋 I'm currently practicing my test driven development skills
 
