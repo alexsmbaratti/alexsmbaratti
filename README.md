@@ -2,7 +2,7 @@
 I am a Software Engineer with over a decade of programming experience. I enjoy designing, writing, and documenting computer programs. 
 
 - 🎓 I've graduated with a Master of Science in Software Engineering
-- 🌱 I’m currently studying iOS/macOS app development in my free time
+- 🌱 I’m currently studying iOS/macOS app development and Apple's design language in my free time
 - 📋 I'm currently practicing my test driven development skills
 
 ## Favorite Platforms to Program For
