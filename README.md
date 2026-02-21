@@ -13,3 +13,5 @@ I am a Software Engineer with over a decade of programming experience. I enjoy d
 - Android
 
 You can check out some of my programming projects here on GitHub, or [visit my website](https://alexsmbaratti.com) to learn more about me and what I do.
+
+I also have a [blog](https://blog.alexsmbaratti.com) where I write about technology, development, and anything else that comes to mind.
